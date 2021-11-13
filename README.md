@@ -4,7 +4,11 @@ All information is publicly available.
 
 The table should be automatically updated every Monday morning. The official data is supposed to be updated every weekend.
 
-There is also a spreadsheet with some fancy formulas to extract meaningful data out of the data, feel free to create a copy (I don't guarantee it will be always up to date): https://docs.google.com/spreadsheets/d/1TrMIMHJFUPoelNd_YxDkdQL5lmC6HUIZ0TzejsYvMMs/edit?usp=sharing
+There is also a [spreadsheet](https://docs.google.com/spreadsheets/d/1TrMIMHJFUPoelNd_YxDkdQL5lmC6HUIZ0TzejsYvMMs/edit?usp=sharing) with some fancy formulas to extract meaningful information out of the data, feel free to create a copy (I don't guarantee it will be always up to date).
+
+Disclaimer: Take these data with a grain of salt. A quote from Lazlo (UHK producer): [There are gaps between orders, such as failed orders, and many orders don't contain UHKs.](https://ultimatehackingkeyboard.com/blog/2021/10/31/production-progress-spare-parts-bonanza-new-agent-release#comment-129602)
+
+There are gaps between orders, such as failed orders, and many orders don't contain UHKs.
 
 Date | Current Order | Last Order
 --- | --- | --- 
