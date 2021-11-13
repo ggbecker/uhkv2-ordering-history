@@ -8,8 +8,6 @@ There is also a [spreadsheet](https://docs.google.com/spreadsheets/d/1TrMIMHJFUP
 
 Disclaimer: Take these data with a grain of salt. A quote from László Monda (UHK founder and lead): [There are gaps between orders, such as failed orders, and many orders don't contain UHKs.](https://ultimatehackingkeyboard.com/blog/2021/10/31/production-progress-spare-parts-bonanza-new-agent-release#comment-129602)
 
-There are gaps between orders, such as failed orders, and many orders don't contain UHKs.
-
 Date | Current Order | Last Order
 --- | --- | --- 
 2021-10-31 | 7947 | 11458
