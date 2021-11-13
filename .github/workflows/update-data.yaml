@@ -27,6 +27,7 @@ jobs:
       - name: Update data
         run: |
           python3 main.py >> README.md
+      - name: Commit and push new data
         run: |
           git config --global user.name 'autobot'
           git config --global user.email 'autobot@users.noreply.github.com'
