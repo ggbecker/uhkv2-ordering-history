@@ -9,7 +9,7 @@ There is also a [spreadsheet](https://docs.google.com/spreadsheets/d/1TrMIMHJFUP
 Disclaimer: Take these data with a grain of salt. A quote from László Monda (UHK founder and lead): [There are gaps between orders, such as failed orders, and many orders don't contain UHKs.](https://ultimatehackingkeyboard.com/blog/2021/10/31/production-progress-spare-parts-bonanza-new-agent-release#comment-129602)
 
 <details>
-<summary>2021-11-14 | 7978*</summary>
+<summary>7978*</summary>
 
 The starting #7978 order id, which contains a palm rest, has been unchanged for a week, which may make some think that we're not making progress. In reality, we keep shipping UHKs. We found that some screws that fixate the palm rest to the UHK weren't sufficiently reliable, so we've redesigned them, and we're CNC'ing new screws these days. This isn't a major hassle, but it blocks palm rest orders for some days. The shipment of orders containing palm rests is expected to resume around 2021-11-22.
 
@@ -20,4 +20,4 @@ Date | Current Order | Last Order
 2021-10-31 | 7947 | 11458
 2021-11-07 | 7978 | 11506
 2021-11-14 | 7978* | 11553
-2021-11-21 | 7978 | 11610
+2021-11-21 | 7978* | 11610
