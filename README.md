@@ -2,7 +2,7 @@ This page contains data taken from https://ultimatehackingkeyboard.com/delivery-
 
 All information is publicly available.
 
-The table should be automatically updated every Monday morning. The official data is supposed to be updated every weekend.
+The table should be automatically updated every Tuesday morning. The official data is supposed to be updated every weekend.
 
 There is also a [spreadsheet](https://docs.google.com/spreadsheets/d/1TrMIMHJFUPoelNd_YxDkdQL5lmC6HUIZ0TzejsYvMMs/edit?usp=sharing) with some fancy formulas to extract meaningful information out of the data, feel free to create a copy (I don't guarantee it will be always up to date).
 
