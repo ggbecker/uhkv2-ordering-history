@@ -25,7 +25,7 @@ if post_content:
 
 
     try:
-        updated_date = re.search('and it was updated on (.+?)\.', text).group(1)
+        updated_date = re.search('page was updated on (.+?)\.', text).group(1)
     except AttributeError:
         updated_date = ''
 
