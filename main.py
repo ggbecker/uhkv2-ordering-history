@@ -9,12 +9,19 @@ post_content = soup.find('div', class_='post-content')
 if post_content:
     text_list = post_content.find_all('p')
 
-    text=""
+    text = ""
     for phrase in text_list:
-        text+=phrase.text
+        text += phrase.text
 
     try:
-        first_order_to_be_shipped = re.search('to be shipped next is #(.+?),', text).group(1)
+        next_non_black_case = re.search('next non-black case UHK order to be '
+                                        'processed is #(.+?)\.', text).group(1)
+    except AttributeError:
+        next_non_black_case = ''
+
+    try:
+        first_order_to_be_shipped = re.search(
+            'to be shipped next is #(.+?),', text).group(1)
     except AttributeError:
         first_order_to_be_shipped = ''
 
@@ -23,13 +30,13 @@ if post_content:
     except AttributeError:
         last_order = ''
 
-
     try:
         updated_date = re.search('page was updated on (.+?)\.', text).group(1)
     except AttributeError:
         updated_date = ''
 
-    print(" | ".join([updated_date, first_order_to_be_shipped, last_order]))
+    print(" | ".join([updated_date, first_order_to_be_shipped,
+                      next_non_black_case, last_order]))
     # print("first_order_to_be_shipped", first_order_to_be_shipped)
     # print("last_order", last_order)
     # print("updated_date", updated_date)
