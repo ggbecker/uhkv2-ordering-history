@@ -21,7 +21,7 @@ if post_content:
 
     try:
         first_order_to_be_shipped = re.search(
-            'to be shipped next is #(.+?),', text).group(1)
+            'to be shipped is #(.+?),', text).group(1)
     except AttributeError:
         first_order_to_be_shipped = ''
 
