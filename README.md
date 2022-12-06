@@ -70,3 +70,4 @@ Date | Current Order | Next non-black case | Last Order
 2022-11-13 | 12970 |  | 14019
 2022-11-20 | 12970 |  | 14066
 2022-11-28 | 13433 |  | 14120
+2022-12-02 We'll update this page every week | 13553 |  | 14154
